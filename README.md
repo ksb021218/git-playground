@@ -1,2 +1,3 @@
 # git-playground
-2-1 OSS개론
+
+깃으로 놀아 보자!
